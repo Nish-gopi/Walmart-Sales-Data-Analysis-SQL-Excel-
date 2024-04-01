@@ -1,3 +1,6 @@
+
+![WalmartLogo](https://github.com/Nish-gopi/Walmart-Sales-Data-Analysis-SQL-Excel-/assets/92908009/60eeb5b5-25cf-4f3f-835a-9aea66d9e9c0)
+
 # Walmart-Sales-Data-Analysis-SQL-Excel
 ## Walmart Sales Data Analysis SQL Project
 # About
