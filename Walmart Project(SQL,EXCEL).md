@@ -1,38 +1,38 @@
 
 ![WalmartLogo](https://github.com/Nish-gopi/Walmart-Sales-Data-Analysis-SQL-Excel-/assets/92908009/60eeb5b5-25cf-4f3f-835a-9aea66d9e9c0)
 
-# Walmart-Sales-Data-Analysis-SQL-Excel
-## Walmart Sales Data Analysis SQL Project
-# About
+# Walmart Sales Data Analysis SQL Project
+## Walmart-Sales-Data-Analysis-SQL-Excel
+## About
 In this project, we delve into Walmart's sales data to uncover valuable insights that can inform strategic decisions and optimize sales operations. By analyzing sales patterns, identifying top-performing branches and products, and understanding customer behavior, we aim to enhance Walmart's sales strategies. The dataset utilized in this project is sourced from the Kaggle Walmart Sales Forecasting Competition.
 
-# Purpose of the Project
+## Purpose of the Project
 The primary objective is to gain actionable insights from Walmart's sales data to drive business growth and efficiency. By exploring various factors influencing sales across different branches, we seek to uncover opportunities for improvement and optimization.
 
-# Leveraging SQL for Analysis
+## Leveraging SQL for Analysis
 SQL (Structured Query Language) is a powerful tool for analyzing structured data stored in databases. By using SQL in this project, we can efficiently query, manipulate, and analyze the Walmart sales data to derive meaningful insights. SQL offers a wide range of functions and capabilities, making it ideal for tasks such as data wrangling, feature engineering, and exploratory data analysis.
 
-# About the Data
+## About the Data
 The dataset comprises sales transactions from three Walmart branches located in Mandalay, Yangon, and Naypyitaw. It contains detailed information about each transaction, including invoice ID, branch, city, customer type, product line, unit price, quantity sold, VAT, total cost, date, time, payment method, cost of goods sold (COGS), gross margin percentage, gross income, and rating.
 
 # Analysis List
-# Product Analysis
+## Product Analysis
 1.Perform in-depth analysis on different product lines.
 2.Identify top-performing product lines based on sales and profitability.
 3.Identify areas for improvement in underperforming product lines.
 
-# Sales Analysis
+## Sales Analysis
 1.Analyze sales trends over time to identify patterns and anomalies.
 2.valuate the effectiveness of sales strategies implemented across branches.
 3.Determine factors contributing to fluctuations in sales and revenue.
 
-# Customer Analysis
+## Customer Analysis
 Segment customers based on their purchasing behavior and preferences.
 Analyze customer demographics to understand their impact on sales.
 Evaluate the profitability of different customer segments and identify opportunities for targeted marketing.
 
 # Approach Used
-# Data Wrangling:
+## Data Wrangling:
 
 Identify and handle missing or null values in the dataset.
 Prepare the data for analysis by ensuring data consistency and integrity.
@@ -40,9 +40,9 @@ Feature Engineering:
 
 Create new features such as time_of_day, day_name, and month_name to provide additional insights into sales patterns and trends.
 Transform and preprocess data to extract meaningful information for analysis.
-# Exploratory Data Analysis (EDA):
+## Exploratory Data Analysis (EDA):
 
-# Product
+## Product
 How many unique product lines does the data have?
 What is the most common payment method?
 What is the most selling product line?
@@ -56,13 +56,13 @@ Which branch sold more products than average product sold?
 What is the most common product line by gender?
 What is the average rating of each product line?
  
-# Sales
+## Sales
 Number of sales made in each time of the day per weekday
 Which of the customer types brings the most revenue?
 Which city has the largest tax percent/ VAT (Value Added Tax)?
 Which customer type pays the most in VAT?
 
-# Customer
+## Customer
 How many unique customer types does the data have?
 How many unique payment methods does the data have?
 What is the most common customer type?
@@ -74,7 +74,7 @@ Which time of the day do customers give most ratings per branch?
 Which day fo the week has the best avg ratings?
 Which day of the week has the best average ratings per branch?
 
-# Revenue And Profit Calculations
+## Revenue And Profit Calculations
 $ COGS = unitsPrice * quantity $
 
 $ VAT = 5% * COGS $
